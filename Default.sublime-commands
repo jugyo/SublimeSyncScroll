@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "SyncScroll: Toggle",
+        "command": "sync_scroll",
+        "args": {"mode": "toggle"}
+    },
+    {
+        "caption": "SyncScroll: Start",
+        "command": "sync_scroll",
+        "args": {"mode": "start"}
+    },
+    {
+        "caption": "SyncScroll: Stop",
+        "command": "sync_scroll",
+        "args": {"mode": "stop"}
+    }
+]

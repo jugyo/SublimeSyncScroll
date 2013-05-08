@@ -1,0 +1,7 @@
+[
+    {
+        "keys": ["super+shift+k", "super+shift+s"],
+        "command": "sync_scroll",
+        "args": {"mode": "toggle"}
+    }
+]
