@@ -1,6 +1,8 @@
 SyncScroll
 ========
 
+Sublime Text 2 plugin that allows you to synchronised scroll.
+
 ![Screencast](http://i.imgur.com/ncw2AWD.gif)
 
 ## Installation
